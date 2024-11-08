@@ -1,4 +1,5 @@
 ## Setup mind - Level 1
+This is for the students who do not have experience on yoga or peak performance.
 
 1. Bhastrika (1-second)
 2. Bhastrika (5-second)
