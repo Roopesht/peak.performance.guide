@@ -2,11 +2,15 @@
 This is proven way of accomplishing something, and keep the mind light. 
 
 **Ground rules**:
-While writing this focus on what needs to be done, switch off your senses, light smile. while filling this form.
-Do not overthink, try not to be perfect. just write what is on your mind. Avoid the emotions at all costs (except the feeling of blissful).
-For a recurring tasks such was going over mails, doing yoga do not use this format.
-For every 15 minutes, stretch the body, take 3 deep breaths. 
-Please practice this at least 10 times, before you put it to work. So that it offers least resistance to complete.
+* While writing this focus on what needs to be done, switch off your senses, light smile. while filling this form.
+
+* Do not overthink, try not to be perfect. just write what is on your mind. Avoid the emotions at all costs (except the feeling of blissful).
+
+* For a recurring tasks such was going over mails, doing yoga do not use this format.
+
+* For every 15 minutes, stretch the body, take 3 deep breaths. 
+
+* Please practice this at least 10 times, before you put it to work. So that it offers least resistance to complete.
 
 1. **Pre-Task Preparation**  (max 3 minutes)
    Write these before starting a task 
