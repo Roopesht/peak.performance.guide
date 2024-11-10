@@ -1,0 +1,1 @@
+	•	A guide listing the types of experts users may need (e.g., health, financial, productivity, spiritual), with descriptions of each expert’s role, how they can help, and advice on how to seek effective consultation.

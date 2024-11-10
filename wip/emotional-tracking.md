@@ -1,0 +1,2 @@
+Emotional Resilience and Stress Management Toolkit:
+	•	A toolkit providing practical exercises for managing stress and building resilience, including breathing techniques, mindfulness practices, and journaling exercises.
