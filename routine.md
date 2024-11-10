@@ -1,80 +1,86 @@
-# Peak Performance program
-Version: Adwaithi in the pursuit of meaningful worldly goals.
+# Peak Performance Program  
+**Version: Advaithi in the Pursuit of Meaningful Worldly Goals**
 
-The below process of pranayama and japa is done both in the morning and evening.
+This program is designed to achieve peak performance through a disciplined practice of pranayama (breath control) and japa (mantra repetition). The practices are done twice daily—morning and evening—along with essential physical exercises to keep the body in harmony with the mind.
 
-## Physical exercise
-- 20 minutes of walking in the morning and evening
-- Warm up 
-- 13 rounds of surya namaskara
-- Essential yogasana (cat pose, matsyasana, Paschimottanasana)
+---
+
+## Physical Exercise
+
+1. **Walking**  
+   - 20 minutes of brisk walking in the morning and evening to energize the body.
+
+2. **Warm-up**  
+   - Prepare the body for deeper practices with gentle stretches.
+
+3. **Surya Namaskara**  
+   - 13 rounds of Surya Namaskara to open up the body and activate energy flow.
+
+4. **Essential Yogasanas**  
+   - **Cat Pose (Bidalasana)**: To increase flexibility of the spine and improve posture.
+   - **Matsyasana (Fish Pose)**: To open the chest, increase lung capacity, and calm the mind.
+   - **Paschimottanasana (Seated Forward Bend)**: To stretch the hamstrings, release tension, and increase focus.
 
 ## Pranayama Schedule
-Total Pranayama length should be more than half hour.
 
-**Required Mindset**: 
-Pranayama helps me realize my true Self and reminds me that I am already complete. 
-It quiets my mind and body, grounding me in awareness so I can act effortlessly and stay focused. 
-By regulating my breath, distractions disappear, and I enter a flow state where action becomes natural and effective.
-Success or failure doesn’t define me, and I remain clear and focused on my goals. 
-The energy I gain through pranayama is not just for personal benefit but for recognizing my connection with all life.
-With discipline, my sense of separation fades, leaving only pure awareness. 
-True peak performance comes when I act in alignment with my true nature—free, infinite, and at peace.
-Peak performance is when I see myself not only as the doer, but also as the tool and the process. Everything becomes one seamless action. 
-I visualize that the entire machinery, spirit, and people are all part of me, working together as one.
+**Total Pranayama Duration:** At least 30 minutes.
 
-### 1. Bhastrika
-- Inhale deeply till the navel, then fill the lungs.
-- Exhale slowly and thoroughly.
-- Exhale and inhale count should be same, start with count of 5 (each count is a second)
-- Repeat at least 10 times.
-- Focus the mind on the breath.
+## Required Mindset
 
-### 2. Kapalabhati
-- 300 repetitions of rapid exhalations (takes about 6 minutes)
-- Focus on the area between the eyes (Ajna Chakra).
+Pranayama is a tool to realize the true Self, reminding you that you are already complete. It calms the mind and body, grounding you in awareness, so that you can act effortlessly and stay focused. Through breath control, distractions dissolve, and you enter a state of flow where action becomes natural and effective.
 
-### 3. Anuloma Viloma
-- At least 9 rounds of anuloma viloma
-- Start with exhalation on left side, and end with exhalation on left side
-- Inhalations are slow and full
-- Exhalations are slower than inhalation and thorough
-- Focus on the Ajna Chakra
-- As you inhale, visualize a white light entering through the Ajna Chakra, and as you exhale, imagine the light expanding, clearing all distractions.
-- Mindful of the energy flow in the body during each cycle
+Success or failure will no longer define you; clarity and focus on your goals will. The energy gained through pranayama is not just for personal benefit—it is for recognizing your connection with all life. As you develop discipline, your sense of separation fades, leaving only pure awareness.
 
-### 4. Moola Bandha Kumbhaka Pranayama
-1. **Begin with 10 repetitions of Bhastrika**:
-   - Fast and full breathing 2 seconds for 1 cycle (no retention)
-   - Increase the pase upto 1 cycle every second
+Peak performance occurs when you act in alignment with your true nature—free, infinite, and at peace. You will come to see yourself not only as the doer, but also as the tool and the process. Everything, from the machinery to the people, will work together as one harmonious flow.
 
-2. **Perform 1 round of Moola Bandha Kumbhaka Pranayama**:
-   Breathe duration in ratio 1:4:2 (inhale, kumbhaka, exhale). Start with 6 seconds inhalation, slowly increase it to 12 seconds.
-   a. **Inhale (Puraka)**:
-      - Breathe deeply and slowly, filling the abdomen and chest completely.
-      - Focus on the space between the eyebrows (Ajna Chakra).
+## Pranayama Practices
 
-   b. **Apply Bandhas**:
-      - **Moola Bandha**: Contract the pelvic floor muscles (root lock).
-      - **Jalandhara Bandha**: Tuck the chin to the chest (throat lock).
+### 1. **Bhastrika**  
+   - Inhale deeply through both nostrils, filling the abdomen and lungs completely.  
+   - Exhale slowly and thoroughly, emptying the lungs completely.  
+   - One cycle consists of both inhalation and exhalation.  
+   - Start with 4 seconds per cycle (2 seconds for inhalation and 2 seconds for exhalation). As you progress, reduce the duration of each cycle to 2 seconds or less. The key is to maintain equal duration for both inhalation and exhalation.  
+   - Begin with 30 cycles and gradually increase the number to up to 300 cycles as your practice deepens.  
+   - Focus the mind fully on the breath, maintaining a calm and steady awareness.
 
-   c. **Kumbhaka (Hold Breath)**:
-      - Hold the breath, keeping the Bandhas engaged.
-      - Maintain focus on Ajna Chakra.
-      - Hold for at least 30 seconds, ensuring not to exhaust yourself to allow effortless exhalation. Increase the duration to 1 minute once there is mastery over breathing.
+### 2. **Kapalabhati**  
+   - Perform 300 rapid exhalations, focusing on the Ajna Chakra (the space between the eyebrows).  
+   - Each exhalation should be swift and powerful, completely emptying the abdomen. The inhalation should be passive, occurring naturally as a reflex after the exhalation.  
+   - This practice should take approximately 6 minutes to complete.  
+   - For advanced practitioners, the repetitions can be increased up to 900, but this should be done gradually.  
+   - You can take breaks during the practice. Each break should begin with **Dhauti** (cleansing) followed by 3 cycles of normal, natural breathing.  
+   - It is recommended not to open the eyes during breaks, maintaining internal focus and calm.
 
-   d. **Exhale (Rechaka)**:
-      - First, release **Jalandhara Bandha** (throat lock).
-      - Keep **Moola Bandha** engaged while exhaling slowly, visualizing the prana moving upwards.
-      - Release **Moola Bandha** at the end of the exhalation.
-      - Exhale is longer than inhalation
+### 3. **Anuloma Viloma**  
+   - Perform at least 9 rounds of Anuloma Viloma (alternate nostril breathing).  
+   - One cycle consists of inhaling through the left nostril, exhaling through the right nostril, inhaling through the right nostril, and exhaling through the left nostril.  
+   - Begin the process with a complete exhalation through the left nostril.  
+   - Inhale slowly and deeply, allowing the breath to fill your lungs.  
+   - Exhale even more slowly, ensuring thoroughness in the release of air.  
+   - Focus your attention on the Ajna Chakra, visualizing a white light entering as you inhale and expanding to clear distractions as you exhale.  
+   - Be mindful of the energy flow throughout the body during each cycle.  
+   - The duration for inhalation and exhalation should be determined by your yoga guru, considering your sharira prakriti, ailments, and aspirations. If you have not yet found a guru, start with 5 seconds for inhalation followed by 5 seconds for exhalation.
+   - You can increase it up to 27 cycles. Beyond that take the permission from the guru.
 
-3. Repeat Steps #1 and #2 for 3 total rounds
 
-### 4. Trataka
-- 30 seconds of silence, enjoy the stillness
-- Gaze at the Deepam flame for 3 minutes
-- 2 Minutes of silence, enjoy the stillness
+### 4. **Moola Bandha Kumbhaka Pranayama**  
+   - Consult with your yoga guru before practicing this pranayama.
+   - Start with 10 repetitions of Bhastrika to prepare the body.  
+   - Perform one round of Moola Bandha Kumbhaka:  
+     - Inhale (Puraka) for 5 seconds, gradually increasing to 12 seconds.  
+     - Engage **Moola Bandha** (root lock) by contracting the pelvic floor muscles and **Jalandhara Bandha** (throat lock) by tucking the chin.  
+     - Hold your breath (Kumbhaka) while maintaining the Bandhas, focusing on the Ajna Chakra. The breath retention should be four times the duration of Puraka.  
+     - Exhale (Rechaka) slowly, releasing the throat lock first, then the root lock. The exhalation should be twice the duration of Puraka.  
+   - Repeat this process for 3 rounds, with a maximum of 9 rounds under optimal conditions.
+
+### 5. **Trataka**  
+   - Sit in silence for 30 seconds, appreciating the stillness.  
+   - Gaze at the flame of a deepam (oil lamp) for 3 minutes, bringing focus to the third eye (Ajna Chakra).  
+   - Finish with 2 minutes of silence, allowing the mind to absorb the calmness.
+
+## Conclusion
+
+By following this program with unwavering dedication, you will not only develop physical strength, but also a sharper, more focused mind. Pranayama, when practiced with discipline, is a powerful tool for realizing your highest potential. It is the bridge between action and stillness, the self and the universe. Through this practice, you will transform both body and mind, unlocking the true power of peak performance.  
 
 ## Japa Schedule
 Total Japa Schedule should be at least 15 minutes.
