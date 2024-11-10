@@ -20,7 +20,7 @@ While it is impossible to measure everything (such as focus or willpower), numer
 ### 1. **Physical and Mental Health**
    - **Health Metrics**: Regular assessments of vital health indicators such as blood pressure, cholesterol levels, blood sugar, heart rate variability (HRV), vitamins, body prakriti, and body composition are crucial to ensuring physical well-being. These can be tracked through blood tests or wearables.
    - **Mental Clarity**: Self-assessment tools to gauge mental sharpness, clarity of thought, and focus, such as cognitive function tests or mindfulness surveys.
-   - **Sleep & Recovery**: Sleep quality and recovery time, measured using wearables (e.g., Oura Ring, Whoop, or Sleep Cycle) or through self-assessment and journaling. These provide insight into rest and the body’s recovery cycle.
+   - **Sleep & Recovery**: Sleep quality and recovery time, measured using wearables 
 
 ### 2. **Wealth and Financial Health**
    - **Net Worth**: Tracking total assets, liabilities, sources of income helps provide a clear picture of your financial health. This includes real estate, savings, investments, and liabilities.
