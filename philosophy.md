@@ -44,7 +44,7 @@ While it is impossible to measure everything (such as focus or willpower), numer
    - **Networking Frequency**: Track how often and how effectively you engage in professional networking, such as reaching out to new contacts, attending events, and maintaining relationships.
 
 ### 6. **Sleep, Recovery, and Mental Clarity**
-   - **Sleep Quality**: Measure sleep quality using tools like Oura Ring, Sleep Cycle, or Whoop to get insights into how restorative your sleep is.
+   - **Sleep Quality**: Measure sleep quality using wearables to get insights into how restorative your sleep is.
    - **Recovery Time**: Track how well you recover after intense work, workouts, or stress. Wearables that monitor HRV or personal assessments of energy levels can help assess recovery time.
    - **Mental Clarity**: Self-assess your ability to maintain focus, clarity, and make decisions. This can be evaluated through journaling or mindfulness assessments.
 
