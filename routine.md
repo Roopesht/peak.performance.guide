@@ -78,38 +78,38 @@ Peak performance occurs when you act in alignment with your true nature—free, 
    - Gaze at the flame of a deepam (oil lamp) for 3 minutes, bringing focus to the third eye (Ajna Chakra).  
    - Finish with 2 minutes of silence, allowing the mind to absorb the calmness.
 
-## Conclusion
+## Japa Schedule  
+**Total Duration**: At least 15 minutes  
+**Between Each Mantra**: Pause for 10 seconds to enjoy the stillness and immerse in the silence.
 
-By following this program with unwavering dedication, you will not only develop physical strength, but also a sharper, more focused mind. Pranayama, when practiced with discipline, is a powerful tool for realizing your highest potential. It is the bridge between action and stillness, the self and the universe. Through this practice, you will transform both body and mind, unlocking the true power of peak performance.  
+**Required Mindset**:  
+As I engage in Japa, I remind myself that the mantras are not separate from my true Self; they are the vibrations of the divine consciousness that flows through all of creation. Each mantra, each syllable, is a portal to deeper awareness. This practice quiets the mind, dissolves the ego, and brings me into harmony with my true nature. Through Japa, I tap into the inherent flow state of peak performance that exists within me. Every repetition brings me closer to the oneness of the universe, guiding me toward stillness, clarity, and greater focus. The pauses between mantras are sacred moments, where silence helps me reconnect with my infinite, undivided awareness. Japa is not merely a ritual; it is a spiritual journey that leads me to embody my highest potential and align with the cosmic consciousness.
 
-## Japa Schedule
-Total Japa Schedule should be at least 15 minutes.
-Between each mantra place a brief gap of 10 seconds and enjoy the stillness.
+### 1. **Recite the Prarthana (Prayer)**
+   Begin by offering prayers to the following deities for blessings and guidance:  
+   - **Ganesha**: Remover of obstacles  
+   - **Saraswati**: Goddess of wisdom and learning  
+   - **Lakshmi**: Goddess of wealth and prosperity  
+   - **Anjaneya**: Lord Hanuman, symbol of strength and devotion  
+   - **Venkateshwara**: Lord Vishnu, the protector of all  
 
-**Required Mindset**: As I engage in Japa, I recognize that the mantras are not separate from my true Self; they are expressions of the same divine consciousness that pervades all. This practice serves as a powerful tool for calming my mind and dissolving the ego, allowing me to tap into the peak performance and flow state inherent in my nature. Each recitation brings me closer to the realization of oneness with the universe, facilitating a deep stillness and clarity that enhances my ability to focus on my goals. I embrace the pauses between mantras as moments to immerse myself in silence, reinforcing the understanding that I am the infinite awareness behind all experiences. Ultimately, Japa is not just a ritual for me; it is a profound journey toward recognizing and embodying my highest potential.
+### 2. **Navagraha Gayathri Japa**  
+   Depending on the day of the week, recite the corresponding **Navagraha Gayathri Mantra** 108 times, get these from your guru. This cannot be done on your own.
+   - **Sunday**: Surya Gayathri Mantra (for vitality and success)
+   - **Monday**: Chandra Gayathri Mantra (for peace and emotional balance)
+   - **Tuesday**: Kuja (Mangala) Gayathri Mantra (for courage and strength)
+   - **Tuesday Evening**: Ketu Gayathri Mantra (for spiritual growth and detachment)
+   - **Wednesday**: Budha Gayathri Mantra (for intellect and communication)
+   - **Thursday**: Guru (Brihaspati) Gayathri Mantra (for wisdom and guidance)
+   - **Friday**: Shukra Gayathri Mantra (for love, beauty, and creativity)
+   - **Saturday Morning**: Shani Gayathri Mantra (for discipline and overcoming challenges)
+   - **Saturday Evening**: Rahu Gayathri Mantra (for transformation and overcoming illusions)
 
-### Recite the Prarthana
-   - Begin by offering prayers to the following deities:
-     - **Ganesha**
-     - **Saraswathi**
-     - **Lakshmi**
-     - **Anjaneya**
-     - **Venkateshwara**
+### 3. **Brihaspati Japa**
+   Recite the Brihaspati mantra (which ever is taught by your guru) for 11 times.
+### 3. **Indra Mantra Japa**
+   Conclude the Japa practice by reciting the **Indra Mantra** 108 times to invoke blessings for protection, abundance, and success.
 
-### Navagraha Gayathri Japa**
-   - Depending on the day of the week, recite the corresponding **Navagraha Gayathri mantra** 108 times:
-     - **Sunday**: Surya Gayathri Mantra
-     - **Monday**: Chandra Gayathri Mantra
-     - **Tuesday**: Kuja (Mangala) Gayathri Mantra
-     - **Tuesday Evening**: Ketu Gayathri Mantra
-     - **Wednesday**: Budha Gayathri Mantra
-     - **Thursday**: Guru (Brihaspati) Gayathri Mantra
-     - **Friday**: Shukra Gayathri Mantra
-     - **Saturday Morning**: Shani Gayathri Mantra
-     - **Saturday Evening**: Rahu Gayathri Mantra
-
-3. **Indra Mantra Japa**:
-   - Recite the **Indra mantra** 108 times to conclude the japa.
 
 
 ## Remedies
