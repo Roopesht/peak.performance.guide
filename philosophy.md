@@ -34,7 +34,7 @@ While it is impossible to measure everything (such as focus or willpower), numer
    - **Creativity & Learning**: Track your engagement with new skills, creative problem-solving, and the learning process. Using platforms like Udemy, Coursera, or journaling can help measure growth.
 
 ### 4. **Consistency, Discipline, and Emotional Well-Being**
-   - **Habit Formation**: consistent, positive habits create a strong foundation for achieving long-term goals. Tracking and nurturing these habits is essential because. There are apps that can help.
+   - **Habit Formation**: consistent, positive habits create a strong foundation for achieving long-term goals. Tracking and nurturing these habits is essential. There are apps that can help.
    - **Discipline Score**: Rate your consistency in following your set routines, habits, and goals. A simple journaling method can help track this score over time.
    - **Emotional Resilience**: Measure your ability to manage stress, bounce back from setbacks, and stay emotionally balanced. Wearables can help identify patterns of emotional well-being.
    - **Purpose & Spiritual Alignment**: Evaluate your connection to your spiritual or life purpose through regular practices like meditation, reflection, or prayer. 
