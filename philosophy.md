@@ -3,7 +3,7 @@
 The Peak Performance initiative is founded on the understanding that every individual seeks success, contentment, and fulfillment in life. These desires, while universal, are often clouded by distractions, unaligned strategies, and improper methods. The core of this initiative is to:
 
 - **Measure the current state of affairs**: Understand where you are, physically, mentally, financially, and emotionally.
-- **Identify the right mindset and solutions**: Based on expert insights, create a personalized approach that works for you. The expert could be a doctor, psychologist, coach, SME, consultant, astrologer, religious guru among the complete list of experts.
+- **Identify the right mindset and solutions**: Based on expert insights, create a personalized approach that works for you. The expert could be a doctor, psychologist, coach, SME, consultant, astrologer, religious guru, performance coach,mutritionist, financial advisors, yoga teachers, behavior experts, leadership coaches,Biofeedback specialist among the complete list of experts.
 - **Monitor progress**: Through the careful selection of tools suited to your ecosystem, we can track your improvements, making necessary adjustments along the way.
 - **Craft a perfect routine**: A customized routine is designed to bring about the right balance of effort, discipline, and mindfulness to reach your goals.
 
