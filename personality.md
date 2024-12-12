@@ -10,9 +10,9 @@ This document will guide you in consciously cultivating aspects of your personal
 Each of these personality aspects is essential to consider and strengthen on your journey toward success:
 
 * Thinking
+* Decision-Making Style
 * Behaving
 * Feeling
-* Decision-Making Style
 * Motivation and Values
 * Communication Style
 * Reaction to Stress and Conflict
