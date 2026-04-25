@@ -11,6 +11,13 @@ Show the Paraphrased version of the Goal and challenges
 
 Rephrase the goal and the challenges for more clarity 
 
+#### Prompt:
+Here is the goal and the challenge. Please paraphrase and provide the output in the below json format : 
+{"goal": "Goal here", "challenge": "challenge"}
+
+Goal: A CBSE 10th standard student scoring currently 60%, aiming for 80%
+
+Challenge: He needs around 4 hours to prepare on each lesson, how ever he does not have so much of time. He has approxmately 240 hours, but he has to cover 60 lessons, and also need time for revision.
 
 
 ### Flow #2

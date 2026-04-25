@@ -18,6 +18,8 @@ Ask the user to choose the mood, energy level, Tasks.
    - Adjust affirmations based on the user's mood. 
    - Mentally prepare the mind for the day's challenge
    - User will read the affirmations
+3. Show the quotes which are suited to the goal, situation and mindset
+
 
 ## Starting a New Task (General)
 1. Determine task type and suggest:
@@ -30,6 +32,31 @@ Ask the user to choose the mood, energy level, Tasks.
 3. Start a timer and remind the user:
    - To take breaks.
    - To reassess task progress.
+
+## New Task (Habit Formation - Condensed)
+
+* Set Micro Goal
+   - Start with manageable steps (e.g., “Read 2 pages today”).
+
+* Anchor to Routine
+   - Link the habit to a fixed time or existing activity (e.g., "Stretch after waking up").
+
+* Track Progress
+   - Use a streak tracker or progress bar for milestones (e.g., 3, 7, 21 days).
+
+* Reward Consistency
+   - Immediate: Motivational quotes or animations.
+   - Milestones: Badges, app unlocks, or custom user-defined rewards.
+
+* Handle Barriers
+   - Send reminders or suggest alternatives for busy days (e.g., micro-tasks).
+
+* Celebrate & Reflect
+   - Weekly: Visualize streaks, reflect on challenges, and adjust as needed.
+
+* Automate
+   - Gradually reduce reminders as the habit becomes routine.
+   - Encourage intrinsic motivation and suggest stacking new habits.
 
 ## Starting a New Task (Plannning)
 - List the probable obstacles, learn from past
@@ -58,8 +85,6 @@ Ask the user to choose the mood, energy level, Tasks.
    - Reasons.
    - Comments.
    - Continuation notes for restarting the task.
-3. Introduce a micro-reward system:
-   - Offer personalized rewards to build habits.
 
 ## Before 30 Minutes to Sleep
 1. Provide the list of tasks and ask the user to make
